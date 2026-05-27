@@ -1,4 +1,4 @@
-# ROB5-S9: GTS880 Projet en intelligence artificielle appliquée aux signaux physiologiques
+# ROB5-S9: GTS880
 
 ## Aperçu du projet
 

@@ -1,8 +1,4 @@
-# Projet en intelligence artificielle appliquée aux signaux physiologiques - GTS880
-
-## Auteur
-
-* Vasilis SKARLEAS
+# ROB5-S9: GTS880 Projet en intelligence artificielle appliquée aux signaux physiologiques
 
 ## Aperçu du projet
 
@@ -40,6 +36,6 @@ Quelques références recommandées pour accompagner le projet :
 
 ### License Information
 
-**ROB5-S9-GTS880** © 2025 by **Vasilis Filippos Skarleas** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
+ROB5-S9-GTS880 © 2025 by Vasileios Filippos Skarleas is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
 
-This work also includes content that is not the property of **Vasilis Filippos Skarleas** and is subject to copyright and other licenses from their respective owners.
+This work also includes content that is not the property of the authors and is subject to copyright and other licenses from their respective owners.
